@@ -54,3 +54,6 @@ Each image is processed to simulate different lighting conditions and corrected 
 - **Original Test Set**: The model achieved moderate accuracy, reflecting its ability to classify animal species under standard conditions.  
 - **Purple Manipulated Test Set**: Accuracy dropped significantly, highlighting the model's sensitivity to changes in lighting.  
 - **Color Constancy Test Set**: Applying color constancy improved accuracy, demonstrating its effectiveness in mitigating lighting variations.  
+
+## Links
+- [Kaggle Notebook](https://www.kaggle.com/code/evvalzcanolu/globalaihub-imageprocessingbootcamp)
